@@ -1,10 +1,10 @@
 # MikaFlow Privacy and Data Notes
 
-MikaFlow is a local-first desktop application. The core Studio, Prompts, Archive, and Utility sections do not require a MikaFlow account, analytics service, or remote API.
+MikaFlow is a local-first desktop application. The included Home, Studio, Prompts, Archive, and Tools sections do not require a MikaFlow account, analytics service, or remote API.
 
 ## Local data
 
-- Studio and Archive content is stored in the content location selected during setup.
+- Studio and Archive content is stored in the content location selected by the installer or later changed in application settings.
 - Prompts, Notes, indexes, caches, and non-secret application settings are stored in the current Windows user's MikaFlow folders.
 - Uninstalling or deleting the application does not automatically delete these user-data folders.
 - Local content is not encrypted by MikaFlow. Windows account and disk security remain responsible for protecting it.
@@ -24,4 +24,3 @@ MikaFlow does not add product analytics or telemetry to the core application.
 ## Before sharing diagnostics
 
 Review screenshots, logs, settings, and exported files before sharing them. They can contain local paths, prompts, image metadata, account identifiers, or service error details.
-
