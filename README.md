@@ -1,5 +1,5 @@
 # MikaFlow Releases
-<img width="778" height="842" alt="mikaflow" src="https://github.com/user-attachments/assets/41b84c1e-d03b-4984-8728-638950d8fa83" />
+<img width="778/4" height="842/4" alt="mikaflow" src="https://github.com/user-attachments/assets/41b84c1e-d03b-4984-8728-638950d8fa83" />
 
 
 <img width="2555" height="1438" alt="스크린샷 2026-08-25 171346" src="https://github.com/user-attachments/assets/86a03717-9a79-4871-98b9-b1f0044b9126" />
